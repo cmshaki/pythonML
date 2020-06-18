@@ -1,6 +1,6 @@
 <h1>A Simple Web Scraping App of Flight Fares Using Python</h1>
 
-##Prerequisites
+## Prerequisites
 
 1. **What you need to know to use this:**
     1. **Python**
